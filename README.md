@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Me chamo Gabriel Negreiros 👋
 
 - 🌱 Atualmente estou estudando C#
 - 📫 Contate-me pelo email: gabrielncne@gmail.com
