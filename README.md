@@ -21,15 +21,6 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 
 <br>
 
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/gabrielncne">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielncne&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  </a>
-</div>
-
-<br>
-
 ### 🤝 Conecte-se comigo
 <div>
   <a href="https://www.linkedin.com/in/gabriel-negreiros-coradine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
