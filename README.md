@@ -1,19 +1,37 @@
 ### Olá! Me chamo Gabriel Negreiros 👋
 
-- 🌱 Atualmente estou estudando C#
+Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e aprimorar minhas habilidades no ecossistema .NET. 
+
+- 💼 Atualmente sou estagiário na **Prosperi**.
+- 🎯 Focado em desenvolvimento backend e frontend com **C# e MVC**.
+- 🚀 Desenvolvendo um projeto de gerenciamento de assinaturas utilizando **C#, POO e Firebase**.
+- 💻 Tenho experiência prática com **Handsontable**, além de fundamentos sólidos em web (**HTML, CSS e JavaScript**).
+- 🌍 Estudando inglês diariamente para expandir minhas oportunidades profissionais na área de desenvolvimento.
 - 📫 Contate-me pelo email: gabrielncne@gmail.com
 
+### 🛠️ Tecnologias e Ferramentas
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Firebase" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/gabrielncne" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielncne@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-negreiros-coradine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+<br>
+
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <a href="https://github.com/gabrielncne">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielncne&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  </a>
+</div>
+
+<br>
+
+### 🤝 Conecte-se comigo
+<div>
+  <a href="https://www.linkedin.com/in/gabriel-negreiros-coradine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:gabrielncne@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
