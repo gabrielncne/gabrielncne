@@ -3,11 +3,8 @@
 Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e aprimorar minhas habilidades no ecossistema .NET. 
 
 - 💼 Atualmente sou estagiário na **Prosperi**.
-- 🎯 Focado em desenvolvimento backend e frontend com **C# e Blazor**.
+- 🎯 Focado em desenvolvimento backend e frontend com **C# e MVC**.
 - 🚀 Desenvolvendo um projeto de gerenciamento de assinaturas utilizando **C#, POO e Firebase**.
-- 💻 Tenho experiência prática com **Handsontable**, além de fundamentos sólidos em web (**HTML, CSS e JavaScript**).
-- 🌍 Estudando inglês diariamente para expandir minhas oportunidades profissionais na área de desenvolvimento.
-- 📫 Contate-me pelo email: gabrielncne@gmail.com
 
 ### 🛠️ Tecnologias e Ferramentas
 
