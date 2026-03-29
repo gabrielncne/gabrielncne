@@ -3,8 +3,8 @@
 Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e aprimorar minhas habilidades no ecossistema .NET. 
 
 - 💼 Atualmente sou estagiário na **Prosperi**.
-- 🎯 Focado em desenvolvimento backend e frontend com **C# e MVC**.
-- 🚀 Desenvolvendo um projeto de gerenciamento de assinaturas utilizando **C#, POO e Firebase**.
+- 🎯 Focado em desenvolvimento fullstack com **C#, .NET e MVC**.
+- 🚀 Desenvolvendo um projeto de gerenciamento de assinaturas...
 
 ### 🛠️ Tecnologias e Ferramentas
 
