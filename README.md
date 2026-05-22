@@ -1,6 +1,6 @@
 # Olá! Eu sou Gabriel Negreiros 👋
 
-Sou Software Engineer Jr apaixonado por desenvolvimento backend, arquitetura de software e construção de soluções inteligentes com IA.
+Sou Software Developer Jr apaixonado por desenvolvimento backend, arquitetura de software e construção de soluções inteligentes com IA.
 
 Atualmente atuo na Prosperi, contribuindo na manutenção e evolução de sistemas corporativos utilizados na gestão de CAPEX/OPEX de grandes empresas.
 
