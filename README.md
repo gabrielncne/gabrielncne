@@ -2,7 +2,7 @@
 
 Sou Software Developer apaixonado por **desenvolvimento mobile**, atualmente focado em **React Native**, com o objetivo de evoluir para desenvolvimento nativo iOS com **Swift**.
 
-Tenho experiência prévia com aplicações **C#**, **.NET**, **APIs REST** e **SQL Server**, o que me deu uma base sólida em lógica de programação, arquitetura de software e boas práticas de desenvolvimento — hoje aplico essa base na construção de apps mobile.
+Tenho experiência prévia com aplicações **C#**, **.NET**, **APIs REST** e **SQL Server**, o que me deu uma base sólida em lógica de programação, arquitetura de software e boas práticas de desenvolvimento. Hoje aplico essa base na construção de apps mobile.
 
 No momento, estou aprofundando meus estudos em:
 
