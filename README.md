@@ -2,7 +2,7 @@
 
 Sou Software Developer apaixonado por **desenvolvimento mobile**, atualmente focado em **React Native**, com o objetivo de evoluir para desenvolvimento nativo iOS com **Swift**.
 
-Tenho experiência prévia com aplicações **.NET**, **APIs REST** e **SQL Server**, o que me deu uma base sólida em lógica de programação, arquitetura de software e boas práticas de desenvolvimento — hoje aplico essa base na construção de apps mobile.
+Tenho experiência prévia com aplicações **C#**, **.NET**, **APIs REST** e **SQL Server**, o que me deu uma base sólida em lógica de programação, arquitetura de software e boas práticas de desenvolvimento — hoje aplico essa base na construção de apps mobile.
 
 No momento, estou aprofundando meus estudos em:
 
@@ -23,10 +23,6 @@ No momento, estou aprofundando meus estudos em:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
 </p>
 
 ---
