@@ -17,15 +17,17 @@ No momento, estou aprofundando meus estudos em:
 
 ## 🚀 Tecnologias e Ferramentas
 
-[![React Native](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
-[![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
-[![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
-[![.NET](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg)
-[![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-[![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
-[![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
-[![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+</p>
 
 ---
 
