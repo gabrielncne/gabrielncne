@@ -9,12 +9,12 @@ Atualmente, estou direcionando meus estudos para Inteligência Artificial, Machi
 
 Meu objetivo é combinar minha experiência em desenvolvimento de software com conhecimentos em IA para construir soluções que resolvam problemas reais, sejam escaláveis e proporcionem boas experiências aos usuários.
 
----
+--
 
 ## Conhecimentos: C# · .NET · Flutter · Dart · APIs REST · SQL Server · Git
-Inteligência Artificial e Machine Learning
+## Inteligência Artificial e Machine Learning
 
----
+--
 
 ## 🤝 Conecte-se comigo
 
