@@ -11,8 +11,8 @@ Meu objetivo é combinar minha experiência em desenvolvimento de software com c
 
 ---
 
-# Conhecimentos: C# · .NET · Flutter · Dart · APIs REST · SQL Server · Git
-# Inteligência Artificial e Machine Learning
+## Conhecimentos: C# · .NET · Flutter · Dart · APIs REST · SQL Server · Git
+Inteligência Artificial e Machine Learning
 
 ---
 
