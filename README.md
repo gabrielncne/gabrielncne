@@ -1,38 +1,30 @@
 # Olá! Eu sou Gabriel Negreiros 👋
+## Software Developer | Mobile Development | AI & Machine Learning Enthusiast
 
-Sou Software Developer apaixonado por **desenvolvimento mobile**, atualmente focado em **Flutter**, com o objetivo de evoluir para desenvolvimento nativo iOS com **Swift**.
+Sou desenvolvedor de software com experiência em C#, .NET, APIs REST, SQL Server e desenvolvimento mobile com Flutter.
 
-Tenho experiência prévia com aplicações **C#**, **.NET**, **APIs REST** e **SQL Server**, o que me deu uma base sólida em lógica de programação, arquitetura de software e boas práticas de desenvolvimento. Hoje aplico essa base na construção de apps mobile com Flutter.
+Minha trajetória em desenvolvimento de software me proporcionou uma base em lógica de programação, programação orientada a objetos, integração de sistemas e arquitetura de aplicações.
 
-No momento, estou aprofundando meus estudos em:
+Atualmente, estou direcionando meus estudos para Inteligência Artificial, Machine Learning e Engenharia de IA, buscando compreender como modelos inteligentes podem ser desenvolvidos, avaliados e integrados a aplicações reais.
 
-- Flutter
-- Dart
-- Navegação (Navigator / GoRouter)
-- Consumo de APIs REST em apps mobile
-- Gerenciamento de estado (Provider / Bloc / Riverpod)
-- Swift e desenvolvimento iOS nativo (próximo passo)
+Meu objetivo é combinar minha experiência em desenvolvimento de software com conhecimentos em IA para construir soluções que resolvam problemas reais, sejam escaláveis e proporcionem boas experiências aos usuários.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>
 </p>
 
 ---
 
-## 📚 Atualmente estudando
-
-- Flutter
-- Dart
-- Navegação (Navigator 2.0 / GoRouter)
-- Consumo de APIs REST em apps mobile
-- Swift (próximo passo, assim que tiver acesso a um Mac)
+## Conhecimentos: C# · .NET · Flutter · Dart · APIs REST · SQL Server · Git
+## Inteligência Artificial e Machine Learning
 
 ---
 
