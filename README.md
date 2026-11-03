@@ -21,6 +21,5 @@ Quero evoluir na integração entre software, dados e IA, mantendo minha trajet�
 
 ## 🤝 Conecte-se comigo
 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-negreiros-coradine/)
-- [E-mail](mailto:gabrielncne@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/gabrielcoradine/)
 
