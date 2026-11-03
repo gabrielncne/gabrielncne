@@ -11,18 +11,6 @@ Meu objetivo é combinar minha experiência em desenvolvimento de software com c
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>
-</p>
-
----
-
 ## Conhecimentos: C# · .NET · Flutter · Dart · APIs REST · SQL Server · Git
 ## Inteligência Artificial e Machine Learning
 
