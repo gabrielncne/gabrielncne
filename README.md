@@ -1,5 +1,5 @@
 # Olá! Eu sou Gabriel Negreiros 👋
-## Software Developer | Mobile Development | AI & Machine Learning Enthusiast
+## Software Developer | Mobile Development | AI
 
 Sou desenvolvedor de software com experiência em C#, .NET, APIs REST, SQL Server e desenvolvimento mobile com Flutter.
 
@@ -11,7 +11,12 @@ Meu objetivo é combinar minha experiência em desenvolvimento de software com c
 
 ---
 
-Conhecimentos: C# · .NET · Flutter · Dart · APIs REST · SQL Server · Git · Inteligência Artificial · Machine Learning
+Área | Tecnologias e foco |
+| --- | --- |
+| Desenvolvimento mobile | Flutter e Dart |
+| Aplicações e integração | C#, .NET e APIs REST |
+| Banco de dados | SQL Server |
+| Aprendizado em andamento | Inteligência Artificial e Machine Learning |
 
 ---
 
