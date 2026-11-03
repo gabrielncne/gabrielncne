@@ -15,7 +15,7 @@ Tenho experiência com aplicações em C# e .NET, APIs REST e SQL Server. Essa t
 | Banco de dados | SQL Server |
 | Aprendizado em andamento | Inteligência Artificial e Machine Learning |
 
-🚀 Próximos passos
+## 🚀 Próximos passos
 
 Quero evoluir na integração entre software, dados e IA, mantendo minha trajetória em desenvolvimento mobile. Também tenho interesse em estudar **Swift e desenvolvimento iOS nativo** futuramente.
 
