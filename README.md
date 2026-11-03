@@ -1,13 +1,14 @@
 # Olá! Eu sou Gabriel Negreiros 👋
-## Software Developer | Mobile Development | AI
 
-Sou desenvolvedor de software com experiência em C#, .NET, APIs REST, SQL Server e desenvolvimento mobile com Flutter.
+Desenvolvedor de software com foco em **Flutter e Dart**, experiência em **C#/.NET, APIs REST e SQL Server** e interesse em aplicar essa base à construção de soluções com inteligência artificial.
 
-Minha trajetória em desenvolvimento de software me proporcionou uma base em lógica de programação, programação orientada a objetos, integração de sistemas e arquitetura de aplicações.
+Estou direcionando meus estudos para **IA e Machine Learning** e me preparando para uma oportunidade de **estágio em AI Engineer no iFood**. Quero aprofundar meus conhecimentos em dados, modelos e integração de IA a produtos, aprendendo com desafios práticos e trabalho em equipe.
 
-Atualmente, estou direcionando meus estudos para Inteligência Artificial, Machine Learning e Engenharia de IA, buscando compreender como modelos inteligentes podem ser desenvolvidos, avaliados e integrados a aplicações reais.
+## 💻 Minha base em desenvolvimento
 
-Meu objetivo é combinar minha experiência em desenvolvimento de software com conhecimentos em IA para construir soluções que resolvam problemas reais, sejam escaláveis e proporcionem boas experiências aos usuários.
+Tenho experiência com aplicações em C# e .NET, APIs REST e SQL Server. Essa trajetória me deu uma base em lógica de programação, arquitetura de software e boas práticas, que também aplico no desenvolvimento mobile com Flutter e Dart.
+
+Continuo aprofundando meus estudos em navegação com Navigator e GoRouter, consumo de APIs REST e gerenciamento de estado no Flutter, explorando Provider, Bloc e Riverpod.
 
 ---
 
